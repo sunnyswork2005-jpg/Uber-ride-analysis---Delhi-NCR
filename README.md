@@ -1,7 +1,6 @@
 *UBER RIDES BOOKINGS*
----
 **DELHI NCR ── PERFORMANCE ANALYSIS**
-
+---
 **SUMMERY**
 
 This report looks at 150,000 Uber ride bookings from Delhi NCR, digging
@@ -34,7 +33,7 @@ customer demand, vehicle breakdown, and other issues.
 • UPI is the most used payment method, contributing 45% of the total
 revenue (₹5,18,46,183). Cash (25%) and Uber Wallet (12%) rank second and
 third.
-
+---
 # **1. Ride Volume & Outcomes**
 
 Out of 150,000 total ride requests, 103,500 (69.0%) were completed
