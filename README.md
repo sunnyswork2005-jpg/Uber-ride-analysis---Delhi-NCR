@@ -8,7 +8,8 @@ into what actually happens on the platform — how many rides get
 completed, why others get cancelled or left incomplete, how much revenue
 is generated, how people pay, and how satisfied customers and drivers
 are.
-![image alt](
+
+![image alt](https://github.com/sunnyswork2005-jpg/Uber-ride-analysis---Delhi-NCR/blob/8828f43150a0652171d078ccda701f8c52b9d601/Screenshot%202026-07-23%20180436.png)
 <img src="media/image2.png" style="width:6.47917in;height:0.85417in" />
 
 **Key** **Findings**
