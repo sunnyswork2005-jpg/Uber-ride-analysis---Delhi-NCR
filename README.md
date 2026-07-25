@@ -8,4 +8,4 @@
 ![image alt]()
 ![image alt]()
 ![image alt]()
-![image alt]()
+![image alt](https://github.com/sunnyswork2005-jpg/Uber-ride-analysis---Delhi-NCR/blob/bbc5dd4fbad013ab89c365e5699c5833b8d09a97/Screenshot%202026-07-25%20234817.png)
