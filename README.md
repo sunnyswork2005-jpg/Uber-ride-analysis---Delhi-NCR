@@ -2,7 +2,9 @@
 
 
 ![image alt](https://github.com/sunnyswork2005-jpg/Uber-ride-analysis---Delhi-NCR/blob/1bddbfd3dfb3b8804490bb0b01039aab18fccd21/picture/2.png)
-![image alt]()
+
+
+![image alt](https://github.com/sunnyswork2005-jpg/Uber-ride-analysis---Delhi-NCR/blob/a27ed46a7661ffbcd0b0406f1677c27753f0ee7f/picture/3.png)
 ![image alt]()
 ![image alt]()
 ![image alt]()
