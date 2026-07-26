@@ -34,4 +34,3 @@
 
 
 
-![image alt](h17.png)
